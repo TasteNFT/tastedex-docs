@@ -42,7 +42,7 @@ Win BNB if you can predict whether the TASTE/BNB price will rise or fall.\ We ha
 
 ## Is TasteDEX safe?
 
-The TasteDEX is a fork from PancakeSwap which has done several audits that you can review here:
+The TasteDEX is a fork of PancakeSwap which has done several audits that you can review here:
 
 * Check out these PancakeSwap security audits:
   * [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation)
