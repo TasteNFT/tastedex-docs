@@ -4,7 +4,7 @@ description: Common error messages. Use the sidebar ➡️to jump to the error y
 
 # Troubleshooting Errors
 
-![](<../.gitbook/assets/docs masthead (16).png>)
+![](../.gitbook/assets/docs%20masthead%20\(16\).png)
 
 Sometimes you may find yourself facing a problem that doesn't have a clear solution. These troubleshooting tips may help you solve problems you run into.
 
@@ -24,7 +24,7 @@ You're trying to swap tokens, but your slippage tolerance is too low or liquidit
 2. Try trading a smaller amount at one time.
 3. Increase your slippage tolerance:
    1. Tap the settings icon on the liquidity page.
-   2. Increase your slippage tolerance a little and try again. ![](<../.gitbook/assets/image (9) (4) (2) (4).png>)
+   2. Increase your slippage tolerance a little and try again. ![](../.gitbook/assets/image%20\(9\)%20\(4\)%20\(2\)%20\(4\).png)
 4. Lastly, try inputting an amount with fewer decimal places.
 {% endtab %}
 
@@ -54,7 +54,7 @@ Still doesn't work?
 1. Tap the settings icon on the liquidity page.
 2. Increase your slippage tolerance a little and try again.
 
-![](<../.gitbook/assets/image (9) (4).png>)
+![](../.gitbook/assets/image%20\(9\)%20\(4\).png)
 {% endtab %}
 
 {% tab title="Reason" %}
@@ -72,7 +72,7 @@ OK, so you're really determined to fix this. We really don't recommend doing thi
 
 There currently isn't a simple way to solve this issue from the PancakeSwap website: you'll need to interact with the contract directly. You can add liquidity directly via the Router contract, while setting amountAMin to a small amount, then withdrawing all liquidity.
 
-#### **Approve the LP contract**
+**Approve the LP contract**
 
 Head to the contract of the LP token you're trying to approve.\
 For example, here's the ETH/WBNB pair: [https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422](https://bscscan.com/address/0x70d8929d04b60af4fb9b58713ebcf18765ade422)
@@ -82,15 +82,15 @@ For example, here's the ETH/WBNB pair: [https://bscscan.com/address/0x70d8929d04
    1. spender (address): enter the contract address of the LP token you're trying to interact with
    2. value (uint256): -1
 
-#### Query "balanceOf"
+**Query "balanceOf"**
 
 1. Switch to **Read Contract.**
 2. In **5. balanceOf**, input your wallet address and hit **Query**.
 3. Keep track of the number that's exported. It shows your balance within the LP in the uint256 format, which you'll need in the next step.
 
-![](<../.gitbook/assets/image (7).png>)
+![](../.gitbook/assets/image%20\(7\).png)
 
-#### Add or Remove Liquidity
+**Add or Remove Liquidity**
 
 Head to the router contract: [https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract](https://bscscan.com/address/0x05ff2b0db69458a0750badebc4f9e13add608c7f#writeContract)
 
@@ -102,7 +102,7 @@ Head to the router contract: [https://bscscan.com/address/0x05ff2b0db69458a0750b
 6. Add your wallet address in **to (address)**.
 7. Deadline must be an epoch time greater than the time the tx is executed.
 
-![](<../.gitbook/assets/image (5).png>)
+![](../.gitbook/assets/image%20\(5\).png)
 
 {% hint style="warning" %}
 This can cause very high slippage, and can cause the user to lose some funds if frontrun
@@ -124,7 +124,7 @@ This happened because you started making a transaction, but you didn't sign and 
 
 Try modifying the amount on “To” field. Therefore putting "(estimated)" symbol on “From”. Then initiate the swap immediately.
 
-![](<../.gitbook/assets/Pancake-K-Solution (2).png>)
+![](../.gitbook/assets/Pancake-K-Solution%20\(2\).png)
 
 This usually happen when you are trying to swap a token with its own fee.
 
@@ -256,7 +256,7 @@ Try manually increasing the **gas limit** (not gas price!) in your wallet before
 
 A limit of 200000 is usually enough.
 
-![](<../.gitbook/assets/image (2).png>)
+![](../.gitbook/assets/image%20\(2\).png)
 
 The above example is from Metamask; check your wallet's documentation if you aren't sure how to adjust the gas limit.
 {% endtab %}
@@ -294,7 +294,7 @@ If not, you may be trying to send tokens that you don't have in your wallet (for
 
 {% tabs %}
 {% tab title="Solution" %}
-Firstly,[ let the team know](../contact-us/telegram.md) which pool you're trying to unstake from, so they can top up the rewards. If you're in a hurry to unstake and you don't mind losing your pending yield, try an emergencyWithdraw:
+Firstly,[ let the team know](broken-reference) which pool you're trying to unstake from, so they can top up the rewards. If you're in a hurry to unstake and you don't mind losing your pending yield, try an emergencyWithdraw:
 
 You can perform an “emergencyWithdraw” from the contract directly to unstake your staked tokens.
 
