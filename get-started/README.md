@@ -1,10 +1,6 @@
 # Get Started
 
-
-
-![](../.gitbook/assets/docs%20masthead%20\(15\).png)
-
-Using anything new can be a bit of a challenge. Don't worry though, we've created a range of guides to help you get comfortable with PancakeSwap!
+Using anything new can be a bit of a challenge. Don't worry though, we've created a range of guides to help you get comfortable with TasteDEX!
 
 ## Setting up PancakeSwap
 
