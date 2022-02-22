@@ -14,20 +14,20 @@ Before you can trade, you will need a BNB Smart Chain-compatible wallet. You wil
 
 3\. Choose the token you want to trade from the dropdown menu in the "From" section. The default setting is BNB. Whichever token you choose, you will need to make sure you have some to trade with. Your balance is shown above the token dropdown menu.
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
 4\. Choose the token you want to trade to in the "To" section as above. Next, type an amount for your "To" currency by clicking inside the input box. Your "From" currency amount will be estimated automatically. You can also type your "From" amount and have the "To" amount estimate automatically if you like.
 
 5\. Check the details, and click the **Swap** button.
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (15).png>)
 
 6\. A window with more details will appear. Check the details are correct.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (6).png>)
 
 When you are ready, click the **Confirm Swap** button. Your wallet will ask you to confirm the action.
 
 7\. Done! You can click **View on BscScan** to see your transaction details on the explorer.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (3).png>)

@@ -12,7 +12,7 @@ Before you can use the Prediction Game, you’ll need to review and accept the t
 
 Visit the TasteDEX Prediction Game page and you will see a “Welcome!” window explaining that the Prediction product is still in beta.
 
-![](<../../.gitbook/assets/image (13).png>)
+![](<../../.gitbook/assets/image (16).png>)
 
 Read and accept the conditions then click **Continue**.
 
@@ -20,7 +20,7 @@ Read and accept the conditions then click **Continue**.
 
 The Prediction Game page shows quite a bit of information. Predictions operate in specific time intervals. Make your prediction before a round goes live to join in. You see the duration of a round displayed in the top-right area where you also can see the timer and how much time is left in the current round.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 If the timer is too low your prediction may not confirm in time, so check there's still plenty of time left before you make a prediction (30 seconds should be plenty, but give yourself more time if you're following along with this guide).
 
@@ -30,17 +30,17 @@ When you're sure you have enough time, you can place your prediction for the nex
 
 1\. In the "Next" section you'll see a green **Enter UP** button and a red **Enter DOWN** button. Click **Enter UP** if you want to predict a rise in price, and click **Enter DOWN** if you want to predict a drop in price.
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (1).png>)
 
 Each will have a different reward multiplier. The multiplier will change over time as the "Prize Pool" increases depending on people's predictions. The Prize Pool is shown just above the buttons.
 
 2\. A new window will open. In the window, you'll see "Commit" to commit BNB for your prediction. Type the amount of BNB you would like to commit to your prediction for this round in the field. You can also use the bunny slider or click the percent buttons if you prefer.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 3\. Once you've decided the amount to commit, click **Confirm** and confirm your action in your wallet.
 
-![](<../../.gitbook/assets/image (14).png>)
+![](<../../.gitbook/assets/image (17).png>)
 
 The confirm button will fade out as your transaction confirms. This short wait is why we checked the round timer earlier to make sure we would have time to make our prediction.
 
@@ -56,7 +56,7 @@ There's nothing left to do now but wait for your Prediction round to go live. Yo
 
 3\. If you've been busy and missed the results, you can scroll back a few rounds by clicking the **left arrow** on the pink tongue cards.
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (12).png>)
 
 ### Seeing results for older rounds
 
@@ -64,11 +64,11 @@ If you want to see the results for rounds you've entered that are older than a f
 
 1\. Click on the **reversing clock icon** next to the round timer.
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
 2\. A "History" panel will open. By default, you should see your most recent round at the top of the list. Click anywhere on the round to see more information.
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (14).png>)
 
 ### Collecting any winnings
 

@@ -2,7 +2,7 @@
 
 \*\*\*\*[**Token swaps**](https://swap.tastenfts.com/swap) on TasteDEX are a simple way to trade one BEP-20 token for another via automated liquidity pools.
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (13).png>)
 
 When you make a token swap (trade) on the exchange you will pay a **0.2% trading fee**, which is broken down as follows:
 

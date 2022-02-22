@@ -10,7 +10,7 @@ The number of LP tokens you receive represents your portion of the DESIRE-BNB Li
 
 You can also redeem your funds at any time by removing your liquidity.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
 ## Liquidity Providers earn trading fees
 

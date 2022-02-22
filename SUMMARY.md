@@ -19,7 +19,7 @@
   * [How to Trade](products/pancakeswap-exchange/trade-guide.md)
   * [Liquidity Pools](products/pancakeswap-exchange/pancakeswap-pools.md)
   * [How to Add/Remove Liquidity](products/pancakeswap-exchange/liquidity-guide.md)
-* [🚜 Yield Farming](products/yield-farming/README.md)
+* [🚜 Farming](products/yield-farming/README.md)
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
   * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
 * [🏊♂ Pools](products/syrup-pool/README.md)
