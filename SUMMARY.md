@@ -29,11 +29,3 @@
   * [How to Use Prediction](products/prediction/prediction-guide.md)
   * [Prediction FAQ](products/prediction/prediction-faq.md)
   * [Prediction Troubleshooting](products/prediction/prediction-troubleshooting.md)
-* [📈 Analytics (Info)](products/info/README.md)
-  * [Analytics](products/info/pancakeswap-analytics.md)
-
-## Tokenomics
-
-* [CAKE](tokenomics/cake/README.md)
-  * [CAKE Tokenomics](tokenomics/cake/cake-tokenomics.md)
-  * [Controlling CAKE supply](tokenomics/cake/controlling-cake-supply.md)
