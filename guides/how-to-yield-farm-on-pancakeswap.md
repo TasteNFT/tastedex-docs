@@ -1,4 +1,4 @@
-# How to Yield Farm on PancakeSwap
+# How to Farm on TasteDEX
 
 
 

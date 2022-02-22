@@ -1,10 +1,10 @@
-# Connect Your Wallet to PancakeSwap
+# Connect Your Wallet to TasteDEX
 
 ![](../.gitbook/assets/docs%20masthead%20\(11\)%20\(1\).png)
 
-You've made a wallet and gotten your BEP20 tokens, now you just need to connect your wallet with PancakeSwap and you're good to go!
+You've made a wallet and gotten your BEP20 tokens, now you just need to connect your wallet with TasteDEX and you're good to go!
 
-Check out the steps below for how to connect each of our recommended wallets to PancakeSwap.
+Check out the steps below for how to connect each of our recommended wallets to TasteDEX.
 
 ## Smartphone/Mobile
 
@@ -20,25 +20,25 @@ To connect Trust Wallet follow the steps below. Note that Android and iOS device
 
 ![](../.gitbook/assets/image%20\(68\).png)
 
-1. Scroll down to "Popular" and tap on "PancakeSwap". You can also find it in "Exchanges".
+1. Scroll down to "Popular" and tap on "TasteDEX". You can also find it in "Exchanges".
 
 ![](../.gitbook/assets/image%20\(66\).png)
 
-1. A new page will open with the PancakeSwap logo and some information. Tap the **Connect** button.
+1. A new page will open with the TasteDEX logo and some information. Tap the **Connect** button.
 
 ![](../.gitbook/assets/image%20\(67\).png)
 
-1. PancakeSwap will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
+1. TasteDEX will open up. If you see a **Connect** button in the top-right tap that and tap **Trust Wallet** from the list.
 
 {% hint style="warning" %}
-If you find you are unable to connect at step 4, go back to the DApps menu and find "PancakeSwap" again. Using "Pancake Swap" from the "History" section may result in the same problem.
+If you find you are unable to connect at step 4, go back to the DApps menu and find "TasteDEX" again. Using "Pancake Swap" from the "History" section may result in the same problem.
 {% endhint %}
 
 ### iOS
 
-To connect to PancakeSwap through iOS, Trust Wallet have prepared a detailed guide on using WallteConnect.
+To connect to TasteDEX through iOS, Trust Wallet have prepared a detailed guide on using WallteConnect.
 
-Read the [Trust Wallet guide to connecting to PancakeSwap via WalletConnect](https://community.trustwallet.com/t/using-walletconnect-to-access-pancakeswap/212307).
+Read the [Trust Wallet guide to connecting to TasteDEX via WalletConnect](https://community.trustwallet.com/t/using-walletconnect-to-access-pancakeswap/212307).
 
 ### **Resources**
 
@@ -49,7 +49,7 @@ Read the [Trust Wallet guide to connecting to PancakeSwap via WalletConnect](htt
 {% tab title="MetaMask" %}
 ![](../.gitbook/assets/image%20\(33\)%20\(3\)%20\(4\)%20\(5\).png)
 
-To connect MetaMask to PancakeSwap follow the steps below.
+To connect MetaMask to TasteDEX follow the steps below.
 
 ### Android and iOS
 
@@ -81,8 +81,8 @@ To connect MetaMask to PancakeSwap follow the steps below.
 
 ![](../.gitbook/assets/image%20\(76\).png)
 
-1. Type "PancakeSwap" into the search field and start the search. The top result will be the PancakeSwap exchange. Tap to enter it.
-2. You wallet will ask you to connect. Tap **Connect** to connect to PancakeSwap.
+1. Type "TasteDEX" into the search field and start the search. The top result will be the TasteDEX exchange. Tap to enter it.
+2. You wallet will ask you to connect. Tap **Connect** to connect to TasteDEX.
 
 ![](../.gitbook/assets/image%20\(77\).png)
 
@@ -103,11 +103,11 @@ Token Pocket is a cryptocurrency management app that natively supports many cryp
 
 ![](../.gitbook/assets/image%20\(78\).png)
 
-1. You'll see a DApp browser page open. Under "Recommended", find and tap the **PancakeSwap** button. If you can't see PancakeSwap under Recommended, you can also find it under "BSC".
+1. You'll see a DApp browser page open. Under "Recommended", find and tap the **TasteDEX** button. If you can't see TasteDEX under Recommended, you can also find it under "BSC".
 
 ![](../.gitbook/assets/image%20\(79\).png)
 
-1. A window will open saying that you will be opening a third party DApp. Tap **I got it** and you'll be taken to PancakeSwap's website connected to your wallet.
+1. A window will open saying that you will be opening a third party DApp. Tap **I got it** and you'll be taken to TasteDEX's website connected to your wallet.
 
 ![](../.gitbook/assets/image%20\(80\).png)
 
@@ -127,11 +127,11 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](../.gitbook/assets/image%20\(82\).png)
 
-1. You'll see a DApp browser page open. Under "DeFi", find and tap the **PancakeSwap** button. If you can't see PancakeSwap under DeFi, you can also find it under "BSC".
+1. You'll see a DApp browser page open. Under "DeFi", find and tap the **TasteDEX** button. If you can't see TasteDEX under DeFi, you can also find it under "BSC".
 
 ![](../.gitbook/assets/image%20\(83\).png)
 
-1. A window will open saying that you will be opening a third party DApp. Tap **Confirm** and you'll be taken to PancakeSwap's website connected to your wallet.
+1. A window will open saying that you will be opening a third party DApp. Tap **Confirm** and you'll be taken to TasteDEX's website connected to your wallet.
 
 ![](../.gitbook/assets/image%20\(81\).png)
 
@@ -167,7 +167,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](../.gitbook/assets/image%20\(86\).png)
 
-1. Visit the [PancakeSwap website](https://pancakeswap.finance). In the top right corner you'll see the **Connect** button. Click it.
+1. Visit the [TasteDEX website](https://pancakeswap.finance). In the top right corner you'll see the **Connect** button. Click it.
 
 ![](../.gitbook/assets/image%20\(164\)%20\(3\)%20\(3\)%20\(2\).png)
 
@@ -190,7 +190,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](../.gitbook/assets/image%20\(88\).png)
 
-1. Visit the PancakeSwap website. In the top-right, click **Connect**.
+1. Visit the TasteDEX website. In the top-right, click **Connect**.
 
 ![](../.gitbook/assets/image%20\(164\)%20\(3\)%20\(3\)%20\(1\).png)
 
@@ -214,15 +214,15 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 ![](../.gitbook/assets/image%20\(90\).png)
 
-1. On the list of BSC DApps, you'll find PancakeSwap links. Click a **PancakeSwap** link.
+1. On the list of BSC DApps, you'll find TasteDEX links. Click a **TasteDEX** link.
 
 ![](../.gitbook/assets/image%20\(92\).png)
 
 {% hint style="warning" %}
-Make sure you don't choose the "PancakeSwap data analysis" option. If you do, you will not be able to connect.
+Make sure you don't choose the "TasteDEX data analysis" option. If you do, you will not be able to connect.
 {% endhint %}
 
-1. Your browser will open a PancakeSwap tab and attempt to connect to Token Pocket.
+1. Your browser will open a TasteDEX tab and attempt to connect to Token Pocket.
 
 {% hint style="warning" %}
 You will not be able to use both MetaMask and TokenPocket connecting through the same web browser. Make sure you use a web browser without MetaMask plugin installed if you're using TokenPocket on your desktop computer.
