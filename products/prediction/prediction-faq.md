@@ -6,9 +6,9 @@ Use the sidebar to quickly find the answers to your questions!
 
 ## General Questions
 
-### What’s the PancakeSwap Prediction contract address?
+### What’s the TasteNFT Prediction Game contract address?
 
-Verified contract address: [https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda](https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda)
+Verified contract address: [https://bscscan.com/address/0x10BB8057146FB20C68446f87B08f1ddA6aD92B34#readContract](https://bscscan.com/address/0x10BB8057146FB20C68446f87B08f1ddA6aD92B34#readContract)
 
 ### Is there a time limit before I can collect my winnings?
 
@@ -25,24 +25,24 @@ For example, if there’s 15 BNB in the DOWN side of a round, and the overall pr
 
 In the above case, if the round ends on a DOWN result, if you committed 2 BNB to a DOWN position, you’d get a payout of (2\*10) × (1-0.03) = 19.4 BNB. Your profit would be 17.4 BNB (19.4 - 2).
 
-The treasury fee is currently set at 3%: this may be subject to changes, which would be announced on PancakeSwap’s official communication channels. Treasury fees are used to buy back and burn CAKE tokens.
+The treasury fee is currently set at 3%: this may be subject to changes, which would be announced on TasteNFT's official communication channels. Treasury fees are used to fund TasteDEX operations.
 
 ### **What are the fees?**
 
-3% of each round's total pot will go to the treasury, which will be used to buyback and burn CAKE every Monday.
+3% of each round's total pot will go to the treasury which are used to fund TasteDEX operations.
 
 ### What are you using for your price feed?
 
-PancakeSwap uses two sources for our price feeds. They each have their own purpose within the prediction market:
+TasteNFT uses two sources for our price feeds. They each have their own purpose within the prediction market:
 
 #### ChainLink Oracle
 
-* Used for the Lock price and End price of each prediction market round. This updates in intervals of 5 minutes.
+* Used for the Lock price and End price of each prediction market round.
 * Our prediction contract uses the ChainLink Oracle price feed to set the prices used to dictate whether a user has won or not.
 
-#### Binance BNB/USDT
+#### TASTE/BNB
 
-* Used for real-time price updates on the PancakeSwap prediction market interface.
+* Used for real-time price updates on the TasteNFT prediction market interface.
 
 Since we’re using two different price feeds, the real-time price updates from Binance and the ChainLink Oracle price may differ by a small amount. However, they shouldn’t vary significantly.
 
@@ -56,17 +56,17 @@ This is because we use the ChainLink Oracle price feed to determine the final ou
 
 ### **What happens if no one enters an opposing position?**
 
-If only one side of a round has positions entered into it, then that side loses, the losing funds will be sent to the treasury.&#x20;
+If only one side of a round has positions entered into it, then that side loses, the losing funds will be sent to the treasury.
 
 For example: User A enters an UP position, no one else enters a DOWN position. User A loses, and there are no opposing positions for the winnings to be paid out to. Funds are sent to treasury.
 
 ### **What happens if the Locked Price and Closed Price are the exact same?**
 
-In the very rare occurrence that the Locked Price is exactly the same as the Closed Price, no one wins, and all funds entered into positions will be sent to the treasury to be used for CAKE buybacks to burn.
+In the very rare occurrence that the Locked Price is exactly the same as the Closed Price, no one wins, and all funds entered into positions will be sent to the treasury.
 
 ### **Can I change or remove my position?**
 
-No. Once you enter a position, you can NOT change the direction, add to, or remove your position. It's locked in, so make sure you're 100% happy with your position direction before confirming.&#x20;
+No. Once you enter a position, you can NOT change the direction, add to, or remove your position. It's locked in, so make sure you're 100% happy with your position direction before confirming.
 
 ## Market Pauses
 
@@ -83,7 +83,7 @@ The prediction market will pause under the following conditions:
 
 ### When will the markets resume after being paused?
 
-The markets will resume when an admin (one of the chefs) manually resumes the market.
+The markets will resume when an admin manually resumes the market.
 
 ### What happens to my position if the market pauses?
 
