@@ -1,12 +1,5 @@
 # Get Started
 
-<<<<<<< HEAD
-
-
-![](../.gitbook/assets/docs%20masthead%20\(15\).png)
-
-=======
->>>>>>> f1d850ac357df004a34d517902d8acc78665472a
 Using anything new can be a bit of a challenge. Don't worry though, we've created a range of guides to help you get comfortable with TasteDEX!
 
 ## Setting up TasteDEX
